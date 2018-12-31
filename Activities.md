@@ -2,7 +2,7 @@ While the soul of our organization is our members, the engine which moves the or
 
 * Weekly Events:
 	* Practice Nets - https://en.wikipedia.org/wiki/Amateur_radio_net - 
-	* Analog
-	* DMR
-	* DIGITAL
-	* NTS
+	* Analog - https://www.aresnyc.org/public-service-nets/
+	* DMR - in progress
+	* DIGITAL - in progress
+	* NTS - in progress
