@@ -7,7 +7,7 @@ This is a link to our meetup page - https://www.meetup.com/NewYorkCityAmateurRad
 
 In order to respect our members time, meetups should not be more than an hour and a half long. A rough outline of a typical meetup agenda is as follows:
 
-Ice Breakers, socializing, buying/selling/trading gear (10 - 20 minutes)
+Ice Breakers, socializing, buying/selling/trading gear (10 minutes)
 	 - This will foster a warm and inviting environment for new folks and create a positive atmosphere. It will also provide a consistent and safe place that folks can rely on to conduct transactions	 
 	 
 The bragging section ( 15 minutes)
@@ -15,4 +15,7 @@ The bragging section ( 15 minutes)
 	
 Keynote Speaker (30 minutes)
 	- This will consistent of a presentation to the group by a person of interest to the community, an educational lecture, or the (for example, school /community group) who is hosting the meeting to present to the meetup.
+	
+ARES Business (15 to 30 minutes)
+	- The meat and potatoes. We review past events, future events, and conduct district business 
 	
