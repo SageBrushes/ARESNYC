@@ -6,3 +6,22 @@ While the soul of our organization is our members, the engine which moves the or
 	* DMR - in progress
 	* DIGITAL - in progress
 	* NTS - in progress
+
+* Monthly Events
+	* Meetups
+	* VE Sessions
+	* Showcasing repeaters and their owners
+
+* Quarterly Events
+	* Street Event (Field days)
+	* Leadership Meetings
+
+* Yearly Events
+	* Recognizing our members
+	
+* Ongoing events
+	* Community Service Events
+	* Online workshops
+	* Recognizing members
+	
+	
