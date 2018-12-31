@@ -1,7 +1,7 @@
 This document outlines how we run our meetups:
 
 * Meetups:
-** We organize meetups on a monthly basis that are open to the public. This allows us to bring folks together, in person in order to socialize, conduct business, mentor new members, and to recruit new folks into the hobby and hopefully our organization.
+* We organize meetups on a monthly basis that are open to the public. This allows us to bring folks together, in person in order to socialize, conduct business, mentor new members, and to recruit new folks into the hobby and hopefully our organization.
 
 This is a link to our meetup page - https://www.meetup.com/NewYorkCityAmateurRadio/
 
