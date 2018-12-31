@@ -5,8 +5,8 @@
 The purpose of this repository is to
  
 * Establish and maintain NYC ARES documentation
-  * [Mission Statement](../blob/master/Mission%20Statement.md)
-  * [Activities](..blob/master/Activities.md)
+  * [Mission Statement](../master/Mission%20Statement.md)
+  * [Activities](../master/Activities.md)
   * Leadership
 * Provide transparency
 * Allow anyone to contribute and publicly address issues with the organization
