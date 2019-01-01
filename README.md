@@ -12,5 +12,7 @@ The purpose of this repository is to
 * Allow anyone to contribute and publicly address issues with the organization
 * Set a framework with which other ARES groups can use for their County/District/Section
 
+Note for folks who have stumbled upon this page. This is a work in progress.
+
   
   
