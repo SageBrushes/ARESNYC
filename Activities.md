@@ -25,4 +25,4 @@ While the soul of our organization is our members, the engine which moves the or
 	* Recognizing members
 	
 	
-Don't see an event here? Want to take charge and lead your own event? Go to the [event planning section.](..master/Event Planning.md)
+Don't see an event here? Want to take charge and lead your own event? Go to the [event planning section.](../master/Event%20Planning.md)
