@@ -11,5 +11,5 @@ Once you have completed above, you'll be in-the-know as far as our nets, meeting
 
 Below are our social media links:
 
-[twitter](https://twitter.com/NYC_ARES)
-[facebook](https://www.facebook.com/NewYorkCityDistrictAres/)
+* [twitter](https://twitter.com/NYC_ARES)
+* [facebook](https://www.facebook.com/NewYorkCityDistrictAres/)
