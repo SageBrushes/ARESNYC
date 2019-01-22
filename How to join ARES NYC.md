@@ -7,7 +7,7 @@ Want to join? Have you joined in the past but want to get caught up? Complete th
 
 Once you have completed above, you'll be in-the-know as far as our nets, meetings, and event activities are concerned.
 
-[Click here to go to a list of links for online courses that are required in order to success in ARES](../master/Training.md)
+[Click here to go to a list of links for online courses that are required in order to be a full member of ARES](../master/Training.md)
 
 Below are our social media links:
 
