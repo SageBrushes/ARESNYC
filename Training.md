@@ -5,6 +5,8 @@ The below are links for training that MUST be completed if you want to be eligib
 * [IS-700.b - NIMS: An Introduction](https://training.fema.gov/is/courseoverview.aspx?code=IS-700.b)
 * [IS-800.c - National Response Framework](https://training.fema.gov/is/courseoverview.aspx?code=IS-800.c)
 
+Once you complete the above, log in to (classroom.google.com) and join class code "ujb61j"
+
 The following links are for those who would like to be eligible for a leadership position in ARES:
 
 * [Introduction to Emergency Communication (EC-001)](http://www.arrl.org/online-course-catalog#)
