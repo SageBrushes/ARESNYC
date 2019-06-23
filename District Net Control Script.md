@@ -64,4 +64,6 @@ This is ```your callsign``` your Net Control Station for today's New York City D
 
 For more information about New York City District ARES, please visit the New York City District ARES website at www.aresnyc.org. for information about our organization, upcoming events and to sign up for our mailing list.
 
-###THIS IS THE END OF THE NET
+### THIS IS THE END OF THE NET - PAT YOURSELF ON THE BACK
+
+[Make sure to fill out this Google form after the net so we can record it in the monthly report](https://forms.gle/dgTMbmDCgyHVtQMz8)
