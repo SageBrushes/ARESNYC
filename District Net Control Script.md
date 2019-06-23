@@ -4,7 +4,7 @@ This is ```your callsign```. The New York City District ARES Monthly Emergency P
 
 ### START OF NET
 
-This is ```your callsign``` Calling the New York City District ARES Emergency Practice Net, attention this is ```your callsign``` calling the New York City District ARES Emergency Practice Net. The New York City District ARES Emergency Practice Net is now in routine formal session. This net meets on the the last Monday of the month at 8:30 P.M. local time through the generous facilities of the KC2GOW Repeater system. 
+This is ```your callsign``` Calling the New York City District ARES Emergency Practice Net. This Practice Net is now in routine formal session. This net meets on the the last Monday of the month at 8:30 P.M. local time through the generous facilities of the KC2GOW Repeater system and running on W2ABC as a backup.
 
 ### STOP AND BREATHE
 
@@ -18,13 +18,19 @@ This Net is using a linked repeater system. Before transmitting, please allow ti
 
 ### STOP AND BREATHE
 
-Any stations with traffic or who would like to make an announcement please call net control now:
+Any stations with traffic or who would like to make an announcement please call net control now, ```your callsign```
+
++ Write down callsigns of stations with announcements 
 
 Net Control would like to acknowledge ____________ (acknowledge each station that checked in).
 
-Call each station with an announcement
++ Call each station with an announcement
 
-That concludes our traffic.
+```callsign of station with traffic``` please proceed with your traffic
+
++ If you have your own traffic or announcements, do it here after dealing with other stations
+
+That concludes the traffic section of the net.
 
 We will now proceed with general check-ins. When checking in, please call Net Control by stating my call sign first, ```your callsign```, release the push to talk button and allow the carrier to drop, and wait until you are certain that no one else is speaking; then check in using the following format: your call sign, name, location. Any station in one of the five Boroughs of New York City, please call net control now, ```your callsign```
 
