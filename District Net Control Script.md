@@ -1,15 +1,16 @@
+### Two minutes before start of the net
 
-This is <your callsign>. The New York City District ARES Net will be held at 8:30 PM on this frequency. Stations listening are invited to check into the Net, and stations wishing to make a call are requested to do so now. This is <<your callsign>> standing by.
+This is ```<your callsign>```. The New York City District ARES Net will be held at 8:30 PM on this frequency. Stations listening are invited to check into the Net, and stations wishing to make a call are requested to do so now. This is <<your callsign>> standing by.
 
-START OF NET
+### START OF NET
 
 This is <<your callsign>> Calling the New York City District ARES Emergency Practice Net, attention this is <<your callsign>> calling the New York City District ARES Emergency Practice Net. The New York City District ARES Emergency Practice Net is now in routine formal session. This net meets on the the last Monday of the month at 8:30 P.M. local time through the generous facilities of the KC2GOW Repeater system. 
 
-STOP AND BREATHE
+### STOP AND BREATHE
 
 We welcome check­-ins from all stations interested in public service communications. This net is affiliated with the Amateur Radio Emergency Service of the American Radio Relay League. You do not have to be a member of ARES to check in to this net. The purpose of this Net is to provide practice in net operations and handle announcements of interest to the ARES community.
 
-STOP AND BREATHE
+### STOP AND BREATHE
 
 The net control operator tonight is <<your callsign>>, my name is <<your name>> and my location is <<your neighborhood>>, I am running on {EMERGENCY/COMMERCIAL} power. This is a directed net. Please do not transmit unless called by Net Control. During the net, please direct all communications through Net Control, <<your callsign>>. If you need to leave the net for any reason before it closes, please inform net control.
 
